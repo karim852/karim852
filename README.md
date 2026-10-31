@@ -100,9 +100,6 @@ languages: [Arabic, French, English, Italian]
 
 ---
 
-<p align="center">
-  <i>Hack legally. Report responsibly. 🔐</i>
-</p>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
